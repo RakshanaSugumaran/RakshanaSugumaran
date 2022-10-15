@@ -24,7 +24,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/rakshana s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakshana s" height="30" width="40" /></a>
 <a href="https://instagram.com/rak_shana_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rak_shana_s" height="30" width="40" /></a>
-<a href="/https://www.tamizhtechie.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.tamizhtechie.com/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
