@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Robotic Process Automation Projects**
 
-- 🌱 I’m currently learning **Ui Path** **Python**
+- 🌱 I’m currently learning **Ui Path,** **Python**
 
 - 📝 I regularly write articles on [https://www.tamizhtechie.com/](https://www.tamizhtechie.com/)
 
